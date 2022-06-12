@@ -1,0 +1,19 @@
+const COLORS = {
+    NAVY_BLUE: '#17288E',
+    BACKGROUND_COLOR: '#010A43',
+    BLUE500: '#212A6B',
+    BLUE_200: '#426DDC',
+    WHITE: '#fff',
+    OFF_WHITE: '#E7E4E4',
+    WHITE700: '#D7C9C9',
+    WHITE500: "#EEEEEE",
+    LAVENDER: '#464E8A',
+    DARK_BLUE: "#10194E",
+    LAVENDER300: '#858EC5',
+    GREEN: '#1DC7AC',
+    RED: '#FE4A54',
+    YELLOW: '#FAAD39',
+    PINK: '#FF2E63',
+}
+
+export { COLORS }
